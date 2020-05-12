@@ -35,6 +35,7 @@ public class Increament {
 
 	private static void populate(ArrayList<Employee> e) {
 		e.add(new Employee(2000,"Sunny"));
+		e.add(new Employee(2000,"Shnny"));
 		e.add(new Employee(3000,"Dunny"));
 		e.add(new Employee(4000,"Funny"));
 		e.add(new Employee(5000,"Gunny"));
