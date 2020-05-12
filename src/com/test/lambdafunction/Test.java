@@ -56,6 +56,8 @@ class Student {
 		 Predicate<Student> p = s -> s.marks >=60;
 		 System.out.println("hi");
 		 
+		 System.out.println("hello there");
+		 
 		 for (Student student2 : l) {
 			if(p.test(student2))
 			{
