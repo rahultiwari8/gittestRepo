@@ -29,6 +29,7 @@ public class Increament {
 		System.out.println(l2);
 		
 		System.out.println("ha ha");
+		System.out.println("hi hi");
 		
 	}
 
